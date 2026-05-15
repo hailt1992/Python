@@ -89,6 +89,7 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 
 ## Question 1
 **Which pandas function displays data types of DataFrame columns?**
+
 ---
 
 ## Question 2
