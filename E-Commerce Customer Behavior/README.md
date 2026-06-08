@@ -11,7 +11,7 @@ The analysis focuses on:
 - Product category analysis
 - Customer review scores and satisfaction
 
-The project uses **Python** and **SQL** for data cleaning, analysis, querying, and visualization.
+The project uses **Python** and **SQL** for data cleaning, analysis, querying, and visualization.  
 
 ---
 
