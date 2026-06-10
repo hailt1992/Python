@@ -8,7 +8,7 @@ The analysis focuses on:
 - Number of orders
 - Regional sales trends
 - Customer purchasing behavior
-- Product category analysis
+- Product category analysis 
 - Customer review scores and satisfaction
 
 The project uses **Python** and **SQL** for data cleaning, analysis, querying, and visualization.  
